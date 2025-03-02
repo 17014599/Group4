@@ -1,1 +1,1 @@
-this is file B
+edit file B by Thanh Dat
